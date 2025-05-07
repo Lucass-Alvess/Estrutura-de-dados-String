@@ -93,6 +93,3 @@ java NomeDaClasse
 - Laços e estruturas condicionais
 - Contagem de frequência de caracteres
 
----
-
-Esses exercícios foram criados com foco no **estudo e aprimoramento** de habilidades em Java, sendo uma ótima maneira de aprender e praticar conceitos importantes de programação.
